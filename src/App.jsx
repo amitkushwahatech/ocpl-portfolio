@@ -24,7 +24,7 @@ const App = () => {
         
           <Contact />
          <Footer/>
-          {/* <StarsCanvas /> */}
+          <StarsCanvas /> 
         </div>
       </div>
     </BrowserRouter>
